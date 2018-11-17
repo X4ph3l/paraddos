@@ -1,12 +1,14 @@
-How to use ParaDDoS Tool
+How to use & install ParaDDoS Tool
 
 1.
+
+-git clone https://github.com/X4ph3l/paraddos
 
 -cd paraddos
 
 -chmod +x paraddos.py
 
--./paraddos.py http://example.com
+-python ./paraddos.py http://example.com
 
 2.
 
