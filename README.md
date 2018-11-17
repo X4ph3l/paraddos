@@ -1,5 +1,4 @@
-![alt text](http://fr.tinypic.com/r/ildqaq)
-
+![Tool](http://i64.tinypic.com/ildqaq.jpg)
 How to use & install ParaDDoS Tool
 ______________________________________________________
 
