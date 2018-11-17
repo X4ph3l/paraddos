@@ -2,14 +2,14 @@ How to use ParaDDoS Tool
 
 1.
 
-cd paraddos
+-cd paraddos
 
-chmod +x paraddos.py
+-chmod +x paraddos.py
 
-./paraddos.py http://example.com
+-./paraddos.py http://example.com
 
 2.
 
-cd paraddos
+-cd paraddos
 
-python paraddos.py http://example.com
+-python paraddos.py http://example.com
