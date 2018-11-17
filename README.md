@@ -5,26 +5,26 @@ ______________________________________________________
 
 ***1.***
 
--git clone https://github.com/X4ph3l/paraddos
+-*git clone https://github.com/X4ph3l/paraddos*
 
--cd paraddos
+-*cd paraddos*
 
--chmod +x paraddos.py
+-*chmod +x paraddos.py*
 
--python ./paraddos.py http://example.com
+-*python ./paraddos.py http://example.com*
 
 ______________________________________________________
 ***2.***
 
--cd paraddos
+-*cd paraddos*
 
--python paraddos.py http://example.com
+-*python paraddos.py http://example.com*
 
 
 ______________________________________________________
 
 
-Made By ***Parad0x Team'z*** ; ⟴𝐗𝟒Þ𝐡𝟑𝐥 美的 | 𝐏𝖆𝖗𝖆𝖉𝖔𝖝#0560
+*Made By* ***Parad0x Team'z*** ; ⟴𝐗𝟒Þ𝐡𝟑𝐥 美的 | 𝐏𝖆𝖗𝖆𝖉𝖔𝖝#0560
 
 ***Mirror-h:*** https://mirror-h.org/search/hacker/28208/
 
