@@ -1,4 +1,5 @@
 How to use & install ParaDDoS Tool
+______________________________________________________
 
 1.
 
@@ -10,6 +11,7 @@ How to use & install ParaDDoS Tool
 
 -python ./paraddos.py http://example.com
 
+______________________________________________________
 2.
 
 -cd paraddos
@@ -17,7 +19,7 @@ How to use & install ParaDDoS Tool
 -python paraddos.py http://example.com
 
 
-
+______________________________________________________
 
 
 Made By Parad0x Team'z ; ⟴𝐗𝟒Þ𝐡𝟑𝐥 美的 | 𝐏𝖆𝖗𝖆𝖉𝖔𝖝#0560
