@@ -30,7 +30,7 @@ ______________________________________________________
 
 #***Tutorial***
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=GOUFIEBfKm8)
+[![Alt text](https://i.imgur.com/fhwaGZB.jpg)](https://www.youtube.com/watch?v=GOUFIEBfKm8)
 
 ______________________________________________________
 
