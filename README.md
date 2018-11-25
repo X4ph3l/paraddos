@@ -28,9 +28,9 @@ ______________________________________________________
 - **Python:** https://www.python.org/downloads/
 ______________________________________________________
 
-#***Tutorial***
+# ***Screenshot & Tutorial***
 
-[![Alt text](https://i.imgur.com/fhwaGZB.jpg)](https://www.youtube.com/watch?v=GOUFIEBfKm8)
+[![Alt text](http://img.youtube.com/vi/GOUFIEBfKm8/mqdefault.jpg)](https://www.youtube.com/watch?v=GOUFIEBfKm8)
 
 ______________________________________________________
 
