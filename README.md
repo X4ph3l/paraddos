@@ -30,7 +30,7 @@ ______________________________________________________
 
 # ***Screenshot & Tutorial***
 
-[![Alt text](http://img.youtube.com/vi/GOUFIEBfKm8/mqdefault.jpg)](https://www.youtube.com/watch?v=GOUFIEBfKm8)
+[![Alt text](http://img.youtube.com/vi/GOUFIEBfKm8/maxresdefault.jpg)](https://www.youtube.com/watch?v=GOUFIEBfKm8)
 
 ______________________________________________________
 
