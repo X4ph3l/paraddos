@@ -28,6 +28,12 @@ ______________________________________________________
 - **Python:** https://www.python.org/downloads/
 ______________________________________________________
 
+#***Tutorial***
+
+[linkname](https://www.youtube.com/watch?v=GOUFIEBfKm8)
+
+______________________________________________________
+
 *Made By* ***Parad0x Team'z*** ; ⟴𝐗𝟒Þ𝐡𝟑𝐥 美的 | 𝐏𝖆𝖗𝖆𝖉𝖔𝖝#0560
 
 ***Mirror-h:*** https://mirror-h.org/search/hacker/28208/
