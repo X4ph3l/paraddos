@@ -30,12 +30,8 @@ ______________________________________________________
 
 #***Tutorial***
 
-<html>
- <body>
-  <iframe src="http://www.youtube.com/embed/GOUFIEBfKm8"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
- </body>
-</html>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=GOUFIEBfKm8)
+
 ______________________________________________________
 
 *Made By* ***Parad0x Team'z*** ; ⟴𝐗𝟒Þ𝐡𝟑𝐥 美的 | 𝐏𝖆𝖗𝖆𝖉𝖔𝖝#0560
