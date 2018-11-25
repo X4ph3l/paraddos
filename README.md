@@ -30,8 +30,9 @@ ______________________________________________________
 
 #***Tutorial***
 
- (https://www.youtube.com/watch?v=GOUFIEBfKm8?t=5 "Everything Is AWESOME")
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=GOUFIEBfKm8"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 ______________________________________________________
 
 *Made By* ***Parad0x Team'z*** ; ⟴𝐗𝟒Þ𝐡𝟑𝐥 美的 | 𝐏𝖆𝖗𝖆𝖉𝖔𝖝#0560
